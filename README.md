@@ -9,7 +9,7 @@ The user can choose to either run the script on a single url or a list of urls.
 ```
 
 ```bash
-./curlplus.sh 1 127.0.0.1:4000/bash/2017/05/19/curlplus-project.html
+./curlplus.sh 1 oisinbates.com/bash/2017/05/19/curlplus-project.html
 ```
 ### Example Output
 ```bash
