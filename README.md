@@ -1,6 +1,6 @@
 # curlplus
 
-This script allows the user to run a series of curl commands single or multiple urls.
+This script allows the user to run a series of curl commands single or multiple urls.<br>
 The user can choose to either run the script on a single url or a list of urls.
 
 ### Example Usage
