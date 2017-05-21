@@ -3,6 +3,7 @@
 This script allows the user to run a series of curl commands single or multiple urls.
 The user can choose to either run the script on a single url or a list of urls.
 
+### Example Usage
 ```bash
 ./curlplus.sh urllist.txt
 ```
@@ -10,6 +11,7 @@ The user can choose to either run the script on a single url or a list of urls.
 ```bash
 ./curlplus.sh 1 127.0.0.1:4000/bash/2017/05/19/curlplus-project.html
 ```
+### Example Output
 ```bash
 oisin@oisin-ThinkPad-T430:~/curlplus$ ./curlplus.sh 1 127.0.0.1:4000/bash/2017/05/19/curlplus-project.html
 
