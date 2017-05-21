@@ -1,0 +1,8 @@
+http://127.0.0.1:4000/
+http://127.0.0.1:4000/python/2016/08/18/collating-and-graphing-olympic-data-with-pandas-and-bokeh.html
+http://127.0.0.1:4000/python/2016/07/26/james-joyce-twitter-bot.html
+http://127.0.0.1:4000/node.js/2016/07/20/maintaining-state-in-an-AWS-Lambda-function.html
+http://127.0.0.1:4000/node.js/2016/07/17/twilio-homer-simpson-autodialer.html
+http://127.0.0.1:4000/bash/2016/07/10/bash-media-project.html
+http://127.0.0.1:4000/android/2016/05/17/android-college-project.html
+http://127.0.0.1:4000/java/2016/05/10/java-college-project.html
